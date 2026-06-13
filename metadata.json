@@ -1,0 +1,6 @@
+{
+  "name": "آغوش هوش مصنوعی",
+  "description": "یک برنامه قدرتمند و هنری برای ترکیب و در آغوش کشیدن عکس‌ها به کمک هوش مصنوعی همراه فیلترهای رنگی زیبا اثر علی بهرامی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
